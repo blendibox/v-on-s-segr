@@ -422,7 +422,7 @@ import { useEffect } from "react";
       </div>
 
       <div class="oferta-cta">
-        <a href="https://go.hotmart.com/P97914155X" class="btn-primary pulse" style="display:block;text-align:center">
+        <a href="https://pay.hotmart.com/P97914155X" class="btn-primary pulse" style="display:block;text-align:center">
           QUERO COMEÇAR A VENDER MAIS →
         </a>
       </div>
