@@ -1,7 +1,7 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
   siteUrl:  'https://ebookvendaonlinesemsegredos.blendibox.com.br',
-  generateRobotsTxt: false,
+  generateRobotsTxt: true,
   sitemapSize: 5000,
    exclude: [
 	  "/404",
