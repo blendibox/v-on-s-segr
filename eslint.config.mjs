@@ -14,7 +14,7 @@ const eslintConfig = defineConfig([
     "next-env.d.ts",
   ]),
     turbopack: {
-      resolveExtensions: [ '.ts', '.jsx', '.js', '.jsonl', '.json','.mjs', '.cjs'],
+      resolveExtensions: [ '.ts', '.jsx', '.js', '.jsonl', '.json','.mjs', '.cjs','xml'],
    },
    webpack: (config) => {
       config.resolve.alias['@components'] = path.resolve(__dirname, 'components');
